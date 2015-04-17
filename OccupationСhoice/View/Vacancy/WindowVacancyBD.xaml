@@ -1,0 +1,9 @@
+﻿<Window x:Class="OccupationСhoice.View.Vacancy.WindowVacancyBD"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WindowVacancyBD" Height="334" Width="464">
+    <Grid>
+        <DataGrid AutoGenerateColumns="True" Height="200" HorizontalAlignment="Left" Margin="12,83,0,0" Name="dataGV" VerticalAlignment="Top" Width="418" ItemsSource="{Binding}"/>
+        <Button Content="Добавить" Height="34" HorizontalAlignment="Left" Margin="31,24,0,0" Name="b_AddVacancyForm" VerticalAlignment="Top" Width="95" Click="b_AddVacancyForm_Click" />
+    </Grid>
+</Window>

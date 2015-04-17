@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OccupationСhoice.ControlSkill">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAACAAQAAAAAEAAAAAAAAAAAAAAAQEAA=</HashCode>
+      <FileName>Control\ControlSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.ControlStudent">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAABAAAAAAAAEAAAAAIAAAAJAAAAQAAA=</HashCode>
+      <FileName>Control\ControlStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.ControlSubject">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACkAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAAAAAQACA=</HashCode>
+      <FileName>Control\ControlSubject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.ControlVacancy">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAAAAAAAEAEAAAAAgAIAAAAAAAQAQA=</HashCode>
+      <FileName>Control\ControlVacancy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.MainControl">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAiAAAAAgIAAACCAEAAAAAAAgEAACAAAAAgA=</HashCode>
+      <FileName>Control\MainControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.DataManager">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAEAAAAAAAAAAAAAIAAAAAAAAEAAAgAAAAAAAA=</HashCode>
+      <FileName>Model\DataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.Skill">
+    <Position X="2" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAggAAAIAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Skill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.Student">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEACAACAAAgAAAAAAIAAQAAAAEAAgAAgAIAAAABAA=</HashCode>
+      <FileName>Model\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.Subject">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAAQgAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.Vacancy">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAggAAAIAAAAAQACAAEAAgAAAAAAAABAAA=</HashCode>
+      <FileName>Model\Vacancy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.Model.FuzzyRelations">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABgAAAAAAAAAAgBAAAAAAAIAAAAQAAAA=</HashCode>
+      <FileName>Model\FuzzyRelations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.Model.Matrix">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAABAAIAAAAAAABAAAAAQAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Model\Matrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

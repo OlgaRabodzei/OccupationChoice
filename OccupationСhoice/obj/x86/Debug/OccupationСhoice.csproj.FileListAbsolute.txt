@@ -1,0 +1,81 @@
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.MainForm.resources
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Student.WindowAddStudent.resources
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Student.WindowStudentDB.resources
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\bin\Debug\OccupationСhoice.exe
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\bin\Debug\OccupationСhoice.pdb
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\bin\Debug\System.Data.SQLite.dll
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.exe
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.pdb
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Skill.WindowAddSkill.resources
+c:\users\user\documents\visual studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Skill.WindowSkillDB.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Subject.WindowAddSubject.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Subject.WindowSubjectBD.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Vacancy.WindowAddVacancy.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Vacancy.WindowVacancyBD.resources
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.exe
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.pdb
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\bin\Debug\OccupationСhoice.exe
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\bin\Debug\OccupationСhoice.pdb
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\bin\Debug\System.Data.SQLite.dll
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.csprojResolveAssemblyReference.cache
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.MainForm.resources
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.Properties.Resources.resources
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Skill.WindowAddSkill.resources
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Skill.WindowSkillDB.resources
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Student.WindowAddStudent.resources
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Student.WindowStudentDB.resources
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Subject.WindowAddSubject.resources
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Subject.WindowSubjectBD.resources
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.User.WindowAddUser.resources
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Vacancy.WindowAddVacancy.resources
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Vacancy.WindowVacancyBD.resources
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.csproj.GenerateResource.Cache
+D:\Учеба\4 курс\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.ResultForm.resources
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.exe
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.pdb
+G:\Диплом\OccupationСhoice\OccupationСhoice\bin\Debug\OccupationСhoice.exe
+G:\Диплом\OccupationСhoice\OccupationСhoice\bin\Debug\OccupationСhoice.pdb
+G:\Диплом\OccupationСhoice\OccupationСhoice\bin\Debug\System.Data.SQLite.dll
+G:\Диплом\OccupationСhoice\OccupationСhoice\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.MainForm.resources
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.Properties.Resources.resources
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.ResultForm.resources
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Skill.WindowAddSkill.resources
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Skill.WindowSkillDB.resources
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Student.WindowAddStudent.resources
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Student.WindowStudentDB.resources
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Subject.WindowAddSubject.resources
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Subject.WindowSubjectBD.resources
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.User.WindowAddUser.resources
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Vacancy.WindowAddVacancy.resources
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Vacancy.WindowVacancyBD.resources
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.exe
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.pdb
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\bin\Debug\OccupationСhoice.exe
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\bin\Debug\OccupationСhoice.pdb
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\bin\Debug\System.Data.SQLite.dll
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.MainForm.resources
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.Properties.Resources.resources
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.ResultForm.resources
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Skill.WindowAddSkill.resources
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Skill.WindowSkillDB.resources
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Student.WindowAddStudent.resources
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Student.WindowStudentDB.resources
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Subject.WindowAddSubject.resources
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Subject.WindowSubjectBD.resources
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.User.WindowAddUser.resources
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Vacancy.WindowAddVacancy.resources
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\OccupationСhoice.View.Vacancy.WindowVacancyBD.resources
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Учеба\4 курс\Диплом\OccupationСhoice\OccupationСhoice\obj\x86\Debug\GenerateResource.write.1.tlog

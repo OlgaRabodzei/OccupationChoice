@@ -1,0 +1,23 @@
+﻿<Window x:Class="OccupationСhoice.View.WindowAddStudent"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WindowAddStudent" Height="491" Width="396">
+    <Grid Height="607">
+        <Label Content="Фамилия" Height="27" HorizontalAlignment="Left" Margin="22,40,0,0" Name="l_StFamily" VerticalAlignment="Top" Width="103" />
+        <Label Content="Имя" Height="27" HorizontalAlignment="Left" Margin="22,73,0,0" Name="l_StName" VerticalAlignment="Top" Width="103" />
+        <Label Content="Отчество" Height="27" HorizontalAlignment="Left" Margin="22,106,0,0" Name="l_StPatronymic" VerticalAlignment="Top" Width="103" />
+        <Label Content="Дата рождения" Height="27" HorizontalAlignment="Left" Margin="43,139,0,0" Name="l_StDOB" VerticalAlignment="Top" Width="103" />
+        <Label Content="Дата выпуска" Height="27" HorizontalAlignment="Left" Margin="230,139,0,0" Name="l_StRealeaseDate" VerticalAlignment="Top" Width="103" />
+        <Label Content="Укажите данные о студенте" Height="28" HorizontalAlignment="Center" Margin="12,0" Name="label1" VerticalAlignment="Top" Width="350" FontSize="14" FontStyle="Normal" FontWeight="Bold" HorizontalContentAlignment="Center" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="161,42,0,0" Name="tB_StFamily" VerticalAlignment="Top" Width="173" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="161,77,0,0" Name="tB_StName" VerticalAlignment="Top" Width="173" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="161,110,0,0" Name="tB_StPatronymic" VerticalAlignment="Top" Width="173" />
+        <Button Content="OK" Height="33" HorizontalAlignment="Left" Margin="138,313,0,0" Name="b_AddStudent" VerticalAlignment="Top" Width="97" Click="b_AddStudent_Click" />
+        <Button Content="Отмена" Height="33" HorizontalAlignment="Left" Margin="237,313,0,0" Name="b_Close" VerticalAlignment="Top" Width="97" Click="b_Close_Click" />
+        <Calendar Height="135" HorizontalAlignment="Left" Margin="12,164,0,0" Name="calendar_DOB" VerticalAlignment="Top" Width="173" />
+        <Calendar Height="135" HorizontalAlignment="Left" Margin="191,164,0,0" Name="calendar_RDate" VerticalAlignment="Top" Width="171" />
+        <CheckBox Content="Указать оценки" FontWeight="Bold" Height="19" HorizontalAlignment="Left" Margin="12,366,0,0" Name="chB_Marks" VerticalAlignment="Top" Width="116" Checked="chB_Marks_Checked" />
+        <DataGrid AutoGenerateColumns="True" Height="200" HorizontalAlignment="Left" Margin="12,391,0,0" Name="dataGrid_Marks" VerticalAlignment="Top"  Width="349" Visibility="Hidden" DataContext="{Binding}">
+        </DataGrid>
+    </Grid>
+</Window>

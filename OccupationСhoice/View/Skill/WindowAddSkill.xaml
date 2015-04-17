@@ -1,0 +1,14 @@
+﻿<Window x:Class="OccupationСhoice.View.Skill.WindowAddSkill"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WindowAddSkill" Height="320" Width="375">
+    <Grid>
+        <Label Content="Название" Height="27" HorizontalAlignment="Left" Margin="20,50,0,0" Name="l_SkName" VerticalAlignment="Top" Width="78" />
+        <Label Content="Укажите данные о навыке" FontSize="14" FontStyle="Normal" FontWeight="Bold" Height="28" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="12,12,21,0" Name="label1" VerticalAlignment="Top" Width="320" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="121,52,0,0" Name="tB_SkName" VerticalAlignment="Top" Width="211" />
+        <Button Content="OK" Height="33" HorizontalAlignment="Left" Margin="136,232,0,0" Name="b_AddSkill" VerticalAlignment="Top" Width="97" Click="b_AddSkill_Click" />
+        <Button Content="Отмена" Height="33" HorizontalAlignment="Right" Margin="0,232,21,0" Name="b_Close" VerticalAlignment="Top" Width="97" Click="b_Close_Click" />
+        <Label Content="Описание" Height="27" HorizontalAlignment="Left" Margin="20,97,0,0" Name="l_Description" VerticalAlignment="Top" Width="78" />
+        <RichTextBox Height="112" HorizontalAlignment="Left" Margin="121,97,0,0" Name="rTB_Description" VerticalAlignment="Top" Width="211" />
+    </Grid>
+</Window>

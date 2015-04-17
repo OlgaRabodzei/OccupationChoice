@@ -1,0 +1,11 @@
+﻿<Window x:Class="OccupationСhoice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Студенты" Height="41" HorizontalAlignment="Left" Margin="43,19,0,0" Name="b_Students" VerticalAlignment="Top" Width="103" Click="b_Students_Click" />
+        <Button Content="Навыки" Height="41" HorizontalAlignment="Left" Margin="43,66,0,0" Name="b_Skills" VerticalAlignment="Top" Width="103" Click="b_Skills_Click" />
+        <Button Content="Предметы" Height="41" HorizontalAlignment="Left" Margin="43,113,0,0" Name="b_Subjects" VerticalAlignment="Top" Width="103" Click="b_Subjects_Click" />
+        <Button Content="Вакансии" Height="41" HorizontalAlignment="Left" Margin="43,160,0,0" Name="b_Vacancies" VerticalAlignment="Top" Width="103" Click="b_Vacancies_Click" />
+    </Grid>
+</Window>

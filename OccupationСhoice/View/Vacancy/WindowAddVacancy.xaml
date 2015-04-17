@@ -1,0 +1,16 @@
+﻿<Window x:Class="OccupationСhoice.View.Vacancy.WindowAddVacancy"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WindowAddVacancy" Height="404" Width="480">
+    <Grid>
+        <Label Content="Название" Height="27" HorizontalAlignment="Left" Margin="18,48,0,0" Name="l_SkName" VerticalAlignment="Top" Width="78" />
+        <Label Content="Укажите данные о вакансии" FontSize="14" FontStyle="Normal" FontWeight="Bold" Height="28" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="54,12,84,0" Name="label1" VerticalAlignment="Top" Width="320" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="119,50,0,0" Name="tB_VacName" VerticalAlignment="Top" Width="211" />
+        <Button Content="OK" Height="33" HorizontalAlignment="Left" Margin="233,212,0,0" Name="b_AddVacancy" VerticalAlignment="Top" Width="97" Click="b_AddVacancy_Click" />
+        <Button Content="Отмена" Height="33" HorizontalAlignment="Right" Margin="0,212,16,0" Name="b_Close" VerticalAlignment="Top" Width="97" Click="b_Close_Click" />
+        <Label Content="Описание" Height="27" HorizontalAlignment="Left" Margin="18,132,0,0" Name="l_Description" VerticalAlignment="Top" Width="78" />
+        <RichTextBox Height="65" HorizontalAlignment="Left" Margin="119,132,0,0" Name="rTB_Description" VerticalAlignment="Top" Width="301" />
+        <Label Content="Должность" Height="27" HorizontalAlignment="Left" Margin="18,90,0,0" Name="l_Post" VerticalAlignment="Top" Width="78" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="119,92,0,0" Name="tB_Post" VerticalAlignment="Top" Width="211" />
+    </Grid>
+</Window>

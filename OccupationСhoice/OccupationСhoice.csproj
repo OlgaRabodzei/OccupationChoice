@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6C997F9E-45EF-4043-869A-7E6127B6021E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OccupationСhoice</RootNamespace>
+    <AssemblyName>OccupationСhoice</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>.\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLite.Designer">
+      <HintPath>.\SQLite.Designer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>.\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq">
+      <HintPath>.\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Control\ControlSkill.cs" />
+    <Compile Include="Control\ControlStudent.cs" />
+    <Compile Include="Control\ControlSubject.cs" />
+    <Compile Include="Control\ControlVacancy.cs" />
+    <Compile Include="Control\MainControl.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DataManager.cs" />
+    <Compile Include="Model\FuzzyRelations.cs" />
+    <Compile Include="Model\Matrix.cs" />
+    <Compile Include="Model\Skill.cs" />
+    <Compile Include="Model\Student.cs" />
+    <Compile Include="Model\Subject.cs" />
+    <Compile Include="Model\Vacancy.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\ResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ResultForm.Designer.cs">
+      <DependentUpon>ResultForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Skill\WindowAddSkill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Skill\WindowAddSkill.Designer.cs">
+      <DependentUpon>WindowAddSkill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Skill\WindowSkillDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Skill\WindowSkillDB.Designer.cs">
+      <DependentUpon>WindowSkillDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Student\WindowAddStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Student\WindowAddStudent.Designer.cs">
+      <DependentUpon>WindowAddStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Student\WindowStudentDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Student\WindowStudentDB.Designer.cs">
+      <DependentUpon>WindowStudentDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Subject\WindowAddSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Subject\WindowAddSubject.Designer.cs">
+      <DependentUpon>WindowAddSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Subject\WindowSubjectBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Subject\WindowSubjectBD.Designer.cs">
+      <DependentUpon>WindowSubjectBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\User\WindowAddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\User\WindowAddUser.Designer.cs">
+      <DependentUpon>WindowAddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Vacancy\WindowAddVacancy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Vacancy\WindowAddVacancy.Designer.cs">
+      <DependentUpon>WindowAddVacancy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Vacancy\WindowVacancyBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Vacancy\WindowVacancyBD.Designer.cs">
+      <DependentUpon>WindowVacancyBD.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\ResultForm.resx">
+      <DependentUpon>ResultForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Skill\WindowAddSkill.resx">
+      <DependentUpon>WindowAddSkill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Skill\WindowSkillDB.resx">
+      <DependentUpon>WindowSkillDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Student\WindowAddStudent.resx">
+      <DependentUpon>WindowAddStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Student\WindowStudentDB.resx">
+      <DependentUpon>WindowStudentDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Subject\WindowAddSubject.resx">
+      <DependentUpon>WindowAddSubject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Subject\WindowSubjectBD.resx">
+      <DependentUpon>WindowSubjectBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\User\WindowAddUser.resx">
+      <DependentUpon>WindowAddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Vacancy\WindowAddVacancy.resx">
+      <DependentUpon>WindowAddVacancy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Vacancy\WindowVacancyBD.resx">
+      <DependentUpon>WindowVacancyBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DataBaseCreationScript.sql" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

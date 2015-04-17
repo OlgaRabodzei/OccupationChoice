@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Control">
+    <Position X="0.557" Y="0.5" Height="0.291" Width="1.002" />
+  </Comment>
+  <Comment CommentText="Model">
+    <Position X="0.578" Y="3.458" Height="0.291" Width="1.002" />
+  </Comment>
+  <Comment CommentText="View">
+    <Position X="0.589" Y="6.312" Height="0.291" Width="1.002" />
+  </Comment>
+  <Class Name="OccupationСhoice.ControlSkill" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\ControlSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.ControlStudent" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAIAAAAIAAAAAAAA=</HashCode>
+      <FileName>Control\ControlStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.ControlSubject" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\ControlSubject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.ControlVacancy" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control\ControlVacancy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.MainControl" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAiAAAAAAAAAAACAEAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Control\MainControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.DataManager" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAEAAAAAAAAAAAAAIAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Model\DataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.Skill" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAggAAAIAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Skill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.Student" Collapsed="true">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEACAACAAAgAAAAAAIAAQAAAAEAAgAAgAIAAAABAA=</HashCode>
+      <FileName>Model\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.Subject" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAAQgAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.Vacancy" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAggAAAIAAAAAQACAAEAAgAAAAAAAABAAA=</HashCode>
+      <FileName>Model\Vacancy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.View.Skill.WindowAddSkill" Collapsed="true">
+    <Position X="7.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>View\Skill\WindowAddSkill.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.View.Skill.WindowSkillDB" Collapsed="true">
+    <Position X="5.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\Skill\WindowSkillDB.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.View.WindowAddStudent">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>View\Student\WindowAddStudent.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.View.WindowStudentDB" Collapsed="true">
+    <Position X="5.25" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\Student\WindowStudentDB.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OccupationСhoice.MainWindow">
+    <Position X="1.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
